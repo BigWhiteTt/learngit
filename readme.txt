@@ -4,4 +4,4 @@ blu
 1
 this is master
 this is feature1
-this is dev origin
+this is dev origin myself
